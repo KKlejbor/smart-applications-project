@@ -6,10 +6,10 @@ This project was build during Smart Application class at my university. In this 
 
 ## Structure
 
-- *iris.csv* file is used as a data source for *Lab07_08_Irises* notebook
-- *sample_libsvm_data.txt* file is used as a data source for *Lab07_08_Example* notebook
 - *Lab07_08_Example* is an [exemplary notebook from Spark documentation](https://spark.apache.org/docs/latest/ml-classification-regression.html#naive-bayes)
+- *sample_libsvm_data.txt* file is used as a data source for *Lab07_08_Example* notebook
 - *Lab07_08_Irises* is classification project using Naive Bayes algorithm from Spark MLlib
+- *iris.csv* file is used as a data source for *Lab07_08_Irises* notebook
 - *Dockerfile* contains instructions used to build a docker image
 
 ## Running the notebooks
